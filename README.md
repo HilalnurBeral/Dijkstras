@@ -1,12 +1,5 @@
-# Homework 5 Programming
 
-## Due Monday, May 6th at 11:59pm.
-
-## Late Deadline: Wednesday, May 8th at 11:59pm (NOTE: This is 2 days instead of 4 because of the proximity to finals)
-
-Please remember that to submit the assignment you will need to click on the Education drop down menu and select assignment complete.   
-
-## Problem 1 - Dijkstra's Algorithm - 60 points
+## Dijkstra's Algorithm
 
 In this problem you will implement Dijkstra's algorithm to find shortest paths between pairs of cities on a map. We are providing a GUI that lets you visualize the map and the path your algorithm finds between two cities.
 
